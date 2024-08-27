@@ -79,7 +79,7 @@ export const About = () => {
 									<Button variant="contained" className="btn1" href="#contact">
 										Hire Me
 									</Button>
-									<a href="https://indigo-elfie-75.tiiny.site/">
+									<a href="https://amaranth-alvira-17.tiiny.site/">
 										<Button variant="contained" className="btn2">
 											CV
 										</Button>
