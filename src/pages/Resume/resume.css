@@ -1,0 +1,70 @@
+.resume_heading {
+	margin-top: 150px;
+	text-align: center;
+}
+.resume_maindiv {
+	margin-top: 100px;
+}
+.resume_imgdiv {
+	width: 100%;
+	height: 500px;
+	text-align: center;
+}
+.resume_pic {
+	/* height: 500px;
+	width: 300px; */
+	width: 100%;
+	height: 100%;
+	/* height: auto; */
+	/* max-height: 450px; */
+}
+.resume_education h3 {
+	margin-bottom: 40px;
+}
+.bcs {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 20px;
+}
+.bcs h4 {
+	font-size: 18px;
+	color: #000000;
+}
+.resume_education span {
+	font-size: 14px;
+	color: #939393;
+}
+.resume_skills {
+	margin-top: 50px;
+}
+.resume_skills span {
+	font-size: 14px;
+	color: #939393;
+}
+@media screen and (max-width: 991px) {
+	.resume_pic {
+		width: auto;
+		border-radius: 100px;
+	}
+	.resume_txtdiv {
+		margin-top: 50px;
+	}
+}
+/* @media screen and (max-width: 450px) {
+	.resume_pic {
+		height: 400px;
+		width: 300px;
+	}
+}
+@media screen and (max-width: 350px) {
+	.resume_pic {
+		height: 400px;
+		width: 200px;
+	}
+}
+@media screen and (max-width: 250px) {
+	.resume_pic {
+		height: 400px;
+		width: 150px;
+	}
+} */

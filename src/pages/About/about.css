@@ -1,0 +1,59 @@
+.imgdiv {
+	margin-top: 100px;
+}
+.about_img {
+	height: 600px;
+	width: 400px;
+}
+.main_div {
+	display: flex;
+	gap: 100px;
+	margin-top: 200px;
+}
+.biodiv {
+	margin-top: 90px;
+}
+.biodiv .bio_heading {
+	font-size: 30px;
+}
+.bio_paragraph {
+	color: #939393;
+	font-size: 15px;
+}
+.skill_meter {
+	margin-top: 30px;
+}
+.skill_meter h3 {
+	font-size: 15px;
+	margin-top: 15px;
+}
+.bio_button {
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	margin-top: 30px;
+}
+.bio_button .btn1 {
+	background-color: #96bb7c;
+	border-radius: 1000px;
+	padding: 15px 30px;
+}
+.bio_button .btn2 {
+	background-color: #6c757d;
+	border-radius: 1000px;
+	padding: 15px 30px;
+}
+.bio_button .btn1:hover {
+	background-color: #71c039;
+}
+.bio_button .btn2:hover {
+	background-color: #6c757d;
+}
+@media screen and (max-width: 991px) {
+	.imgdiv {
+		text-align: center;
+	}
+	.about_img {
+		width: 100%;
+	}
+}

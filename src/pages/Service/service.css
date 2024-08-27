@@ -1,0 +1,40 @@
+.service_div {
+	margin-top: 150px;
+}
+.service_heading {
+	text-align: center;
+}
+.service_card {
+	margin-top: 50px;
+	pointer-events: none;
+	text-align: center;
+}
+.service_heading h1 {
+	font-size: 32px;
+	color: #000000;
+}
+.service_icon1 {
+	color: #96bb7c;
+}
+.card1 {
+	width: 100%;
+	text-align: center;
+	border-style: solid;
+	border-color: #939393;
+	border-width: 1px;
+	padding: 30px;
+}
+@media screen and (max-width: 767px) {
+	.card_margin_sm {
+		margin-top: 10px;
+	}
+	.center_align {
+		text-align: center;
+		align-items: center;
+	}
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	.card_margin_md {
+		margin-top: 10px;
+	}
+}

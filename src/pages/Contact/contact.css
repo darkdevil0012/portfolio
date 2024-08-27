@@ -1,0 +1,31 @@
+.contactmain_div {
+	font-family: "Nunito", sans-serif;
+	margin-top: 200px;
+}
+.input_div {
+	margin-top: 50px;
+}
+.contact_heading {
+	text-align: center;
+	font-size: 50px;
+}
+.input_div .submit_button {
+	background-color: #96bb7c;
+	border-radius: 1000px;
+	margin-bottom: 100px;
+}
+.input12 {
+	width: 100%;
+}
+.contact_info h3 {
+	font-size: 23px;
+	color: #000000;
+}
+.contact_info h4 {
+	font-size: 18px;
+	color: #96bb7c;
+}
+.socialmedia_links {
+	text-decoration: none;
+	color: #96bb7c;
+}

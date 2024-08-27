@@ -1,0 +1,79 @@
+.main_heading {
+	text-align: center;
+	margin-top: 140px;
+}
+.main_heading h1 {
+	color: #000000;
+}
+/* .sub_headings {
+	display: flex;
+	justify-content: center;
+	gap: 30px;
+	margin-top: 40px;
+}
+.sub_headings a {
+	font-size: 16px;
+	color: #939393;
+	cursor: pointer;
+	text-decoration: none;
+}
+.sub_headings a:hover {
+	color: #96bb7c;
+}
+.sub_headings a:active {
+	color: red;
+} */
+.image1 {
+	width: 200px;
+	height: 100%;
+	cursor: pointer;
+}
+.firstimg {
+	position: relative;
+	height: 400px;
+	width: 100%;
+}
+.zoom {
+	transition: transform 2s;
+}
+.zoom:hover {
+	-ms-transform: scale(1.1); /* IE 9 */
+	-webkit-transform: scale(1.1); /* Safari 3-8 */
+	transform: scale(1.1);
+	-webkit-filter: brightness(0.5);
+	filter: brightness(0.5);
+}
+.portfolioimages {
+	margin-top: 50px;
+}
+.displayed {
+	position: absolute;
+	top: 200px;
+	right: 90px;
+	color: white;
+	font-size: 30px;
+	cursor: pointer;
+	pointer-events: none;
+}
+
+.displayed2 {
+	position: absolute;
+	top: 200px;
+	right: 90px;
+	color: white;
+	font-size: 30px;
+	cursor: pointer;
+	pointer-events: none;
+}
+.nodisplay {
+	display: none;
+}
+.firstimg a {
+	text-decoration: none;
+}
+
+@media screen and (max-width: 575px) {
+	.portfolio_imgleft {
+		margin-top: 10px;
+	}
+}
