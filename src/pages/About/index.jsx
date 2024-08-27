@@ -13,7 +13,11 @@ export const About = () => {
 				<Row>
 					<Col sm={12} lg={5}>
 						<div className="imgdiv">
-							<img className="about_img" src="hamzapic1.jpg" alt="" />
+							<img
+								className="about_img"
+								src="https://scontent.fkhi2-2.fna.fbcdn.net/v/t39.30808-6/434495709_3555246608060160_135392910919200108_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHFt4jq5I_z5vKwvS2VphWiHhLDJkO06FseEsMmQ7ToWznsMH3RJWBnB2fTARlrBkoPZZOiCldrAi5nbipbZzAc&_nc_ohc=GIUrySo0rRcQ7kNvgHlKf3B&_nc_ht=scontent.fkhi2-2.fna&oh=00_AYDQO8QxHwhPKSBS_NosQF2PESjVqfjrtPqwM9zDDJtv1A&oe=66D3DAD9"
+								alt=""
+							/>
 						</div>
 					</Col>
 					<Col sm={12} lg={7}>
@@ -75,9 +79,9 @@ export const About = () => {
 									<Button variant="contained" className="btn1" href="#contact">
 										Hire Me
 									</Button>
-									<a href="https://ivory-juli-46.tiiny.site/">
+									<a href="https://indigo-elfie-75.tiiny.site/">
 										<Button variant="contained" className="btn2">
-											Download CV
+											CV
 										</Button>
 									</a>
 								</Stack>

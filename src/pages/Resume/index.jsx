@@ -18,7 +18,7 @@ export const Resume = () => {
 						<Col sm={12} lg={4}>
 							<div className="resume_imgdiv">
 								<img
-									src="hamzapic2.jpg"
+									src="https://scontent.fkhi2-3.fna.fbcdn.net/v/t39.30808-6/280042038_3054550724796420_568826843101601057_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEHlRmrXmR8Dpn4XftvzzTEbolWXQfnKMxuiVZdB-cozPtggM7R2ksZi_15u5_eSxCYtOuAWyNt87eW3DaaWW0L&_nc_ohc=Pvkpw6uWBNAQ7kNvgH0pSwi&_nc_ht=scontent.fkhi2-3.fna&oh=00_AYDJznJz08PT4pUBAwzkcdxlei9gB8Mc1zGXT4xpUvk1HQ&oe=66D3DE47"
 									alt="error_loading"
 									className="resume_pic"
 								/>
