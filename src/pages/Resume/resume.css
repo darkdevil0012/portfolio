@@ -43,28 +43,10 @@
 }
 @media screen and (max-width: 991px) {
 	.resume_pic {
-		width: auto;
+		width: 100%;
 		border-radius: 100px;
 	}
 	.resume_txtdiv {
 		margin-top: 50px;
 	}
 }
-/* @media screen and (max-width: 450px) {
-	.resume_pic {
-		height: 400px;
-		width: 300px;
-	}
-}
-@media screen and (max-width: 350px) {
-	.resume_pic {
-		height: 400px;
-		width: 200px;
-	}
-}
-@media screen and (max-width: 250px) {
-	.resume_pic {
-		height: 400px;
-		width: 150px;
-	}
-} */
