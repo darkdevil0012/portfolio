@@ -44,7 +44,7 @@ export const Protfolio = () => {
 									href="https://e-com-frontend-roan.vercel.app/"
 									target="blank">
 									<img
-										src="https://scontent.fkhi2-2.fna.fbcdn.net/v/t39.30808-6/457266912_1899869543818693_3826503291914501149_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WRAru3YZUWcQ7kNvgEGlcui&_nc_ht=scontent.fkhi2-2.fna&oh=00_AYAEX-M8NkuDFX6DPFiqCxz7X1C1HIwRRQ5N15kuKgoZKw&oe=66D3D2FC"
+										src="https://res.cloudinary.com/dnqplq5hb/image/upload/v1726320593/euvqteypqzvmm8tryolo.png"
 										alt=""
 										className="image1 zoom"
 										onMouseEnter={(e) => onHover(e)}
@@ -59,10 +59,10 @@ export const Protfolio = () => {
 						<Col sx={12} sm={6} md={4}>
 							<div className="firstimg portfolio_imgleft">
 								<a
-									href="https://e-com-frontend-roan.vercel.app/"
+									href="https://portfolio-six-nu-85.vercel.app/"
 									target="blank">
 									<img
-										src="https://scontent.fkhi2-3.fna.fbcdn.net/v/t39.30808-6/457461549_1899869540485360_5684713918571897342_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=W-VN1qKWNmwQ7kNvgHEGmBK&_nc_ht=scontent.fkhi2-3.fna&oh=00_AYD2n0l0LP4A52bK0sc-r1cz3S_bCI1WIGc3ZAOXRRNyZw&oe=66D3CAE4"
+										src="http://res.cloudinary.com/dnqplq5hb/image/upload/v1726320733/bub2zzuomzjbmc78ge0x.jpg"
 										alt=""
 										className="image1 zoom"
 										onMouseEnter={(e) => onHover2(e)}
