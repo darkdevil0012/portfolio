@@ -15,7 +15,7 @@ export const About = () => {
 						<div className="imgdiv">
 							<img
 								className="about_img"
-								src="https://scontent.fkhi2-2.fna.fbcdn.net/v/t39.30808-6/434495709_3555246608060160_135392910919200108_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHFt4jq5I_z5vKwvS2VphWiHhLDJkO06FseEsMmQ7ToWznsMH3RJWBnB2fTARlrBkoPZZOiCldrAi5nbipbZzAc&_nc_ohc=GIUrySo0rRcQ7kNvgHlKf3B&_nc_ht=scontent.fkhi2-2.fna&oh=00_AYDQO8QxHwhPKSBS_NosQF2PESjVqfjrtPqwM9zDDJtv1A&oe=66D3DAD9"
+								src="https://res.cloudinary.com/dnqplq5hb/image/upload/v1726320897/kft3ttwxxru1enpxo3rq.jpg"
 								alt=""
 							/>
 						</div>
